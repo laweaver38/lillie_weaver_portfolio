@@ -1,5 +1,3 @@
-# my-portfolio
-
 # Lillie Weaver
 Contact Info: laweaver1@loyola.edu
 ### About Me 
@@ -12,7 +10,7 @@ My comprehensive skill set, commitment to encountering all people with empathy, 
 Find me on LinkedIn here!
 ### Education 
 First Year at Loyola University MD
-***
+
 ### Projects
 
 #### Project 1 Title
