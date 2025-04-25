@@ -1,7 +1,7 @@
 ![Background Image](potfolio_images\portfolio_background.png)
 # Lillie Weaver
 Contact Info: laweaver1@loyola.edu
-## About Me 
+## **About Me** 
 Hi! I am a psychology and statistics scholar with 3 years of proven expertise in child care and 2 years of training in data analysis.
 
 With skills in time management, flexibility, communication, and conflict resolution, I am able to design and implement developmentally appropriate, evidence-based strategies for supporting children’s growth, and achieve measurable improvements in emotional regulation and social skills. I am also adept at using Excel, SPSS, and Python to collect, analyze, and interpret behavioral data in both academic and applied settings. 
@@ -10,14 +10,16 @@ My comprehensive skill set, commitment to encountering all people with empathy, 
 
 Find me on LinkedIn [here](http://www.linkedin.com/in/lillie-weaver-19874235a).
 
-## Education 
+___
+
+## **Education** 
 First Year at Loyola University MD
 
 ___
 
-## Projects
+## **Projects**
 
-### EXCEL: GRADE CALCULATOR
+### **EXCEL: GRADE CALCULATOR**
 
 This project is a custom Excel-based grade calculator for two Loyola classes, featuring weighted grading, automatic letter grade conversion, and a pie chart to visualize assignment impact and help students track academic performance.
 
@@ -41,7 +43,7 @@ I set out to build a personalized, flexible grade calculator for two of my class
 
 ___
 
-### EXCEL: RESALE TICKET BUSINESS
+### **EXCEL: RESALE TICKET BUSINESS**
 
 This Excel project models a resale ticket business, integrating inventory tracking, dynamic pricing via lookup tables, loan payment projections, and affordability logic to simulate real-world decision-making in a small business environment.
 
@@ -65,7 +67,7 @@ I set out to build a detailed business tool that could manage inventory and anal
 
 ___
 
-### EXCEL: BUDGET TRACKER
+### **EXCEL: BUDGET TRACKER**
 
 This Excel project is a personal budget tracker that helps monitor income, expenses, and savings goals. It includes formulas and formatting to provide a simple, customized way to manage monthly finances effectively.
 
@@ -89,7 +91,7 @@ I successfully created a functional, visually clear budget tracker that helps me
 
 ___
 
-### PYTHON: PERSONALITY TEST
+### **PYTHON: PERSONALITY TEST**
 
 This Python project is a personality quiz that assigns users a dog breed—Golden Retriever, Pug, German Shepherd, or Chihuahua — based on their answers to a 10-question quiz using conditional logic and scoring.
 
@@ -113,7 +115,7 @@ The finished project is a working Python application that asks users 10 question
 
 ___
 
-### Intro to SPSS
+### **Intro to SPSS**
 
 This SPSS project analyzed the relationship between cricket chirps and temperature. It included descriptive stats, correlation analysis, and prediction, offering valuable hands-on experience for my psychology and statistics research interests.
 
