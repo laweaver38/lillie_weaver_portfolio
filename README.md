@@ -1,4 +1,4 @@
-![](potfolio_images/portfolio_background.JPG)
+![Washington, DC](potfolio_images/portfolio_background.jpg)
 # Lillie Weaver
 Contact Info: laweaver1@loyola.edu
 
