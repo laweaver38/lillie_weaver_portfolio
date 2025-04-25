@@ -1,6 +1,9 @@
 ![Background Image](potfolio_images\portfolio_background.png)
 # Lillie Weaver
 Contact Info: laweaver1@loyola.edu
+
+___
+
 ## **About Me** 
 Hi! I am a psychology and statistics scholar with 3 years of proven expertise in child care and 2 years of training in data analysis.
 
@@ -115,7 +118,7 @@ The finished project is a working Python application that asks users 10 question
 
 ___
 
-### **Intro to SPSS**
+### **INTRO TO SPSS**
 
 This SPSS project analyzed the relationship between cricket chirps and temperature. It included descriptive stats, correlation analysis, and prediction, offering valuable hands-on experience for my psychology and statistics research interests.
 
