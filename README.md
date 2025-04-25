@@ -26,7 +26,7 @@ This project is a custom Excel-based grade calculator for two Loyola classes, fe
 ![Grade Calculator](potfolio_images\grade_calc.png)
 
 **Initial project idea:**
-I came up with the idea for this project based on a real need—tracking my grades throughout the semester to stay on top of my academic progress. I decided to create a grade calculator for two of my classes at Loyola University because it’s essential to know how each assignment, exam, or participation score contributes to my final grade. The problem I wanted to solve was having a personalized, real-time system to monitor and project final grades—something more interactive and specific than what most learning platforms provide.
+I came up with the idea for this project based on a real need—tracking my grades throughout the semester to stay on top of my academic progress. I decided to create a grade calculator for two of my classes at Loyola University because it’s essential to know how each assignment, exam, or participation score contributes to my final grade. The problem I wanted to solve was having a personalized, real-time system to monitor and project final grades — something more interactive and specific than what most learning platforms provide.
 
 **Tools I used:**
 I used Microsoft Excel to build a grade calculator that included assignment categories, point values, weights (as defined in each course syllabus), and conditional formulas to calculate both number and letter grades. I also created an annotated pie chart to visually show the weight distribution of assignments and identify which components have the biggest impact on the final grade.
@@ -101,7 +101,7 @@ This Python project is a personality quiz that assigns users a dog breed—Golde
 I wanted to create a fun and engaging Python project that could showcase logic, user interaction, and scoring in a creative way. I came up with the idea for a dog breed personality quiz because it's lighthearted but still demonstrates real coding concepts like conditionals, loops, and user input. The problem I aimed to solve was how to make a Python program that feels interactive and personalized, while also using logic to sort users into specific categories based on their answers.
 
 **Tools I used:**
-I used Python to develop the application, incorporating loops for user input, if-else logic for scoring, a dictionary or list-based structure to organize the questions and options, and conditional checks for error handling. I also wrote and tested the full script in a Python IDE (like VS Code or Replit).
+I used Python to develop the application, incorporating loops for user input, if-else logic for scoring, a dictionary or list-based structure to organize the questions and options, and conditional checks for error handling.
 
 **Challenges I faced:**
 One challenge was figuring out the best way to structure the scoring system so each answer mapped clearly to a specific dog breed. I needed to make sure that scoring remained accurate and that the program properly handled ties or invalid inputs. I overcame this by carefully planning the answer logic ahead of time in a document, using dictionaries to track scores, and adding input validation so the quiz wouldn’t crash on incorrect entries.
