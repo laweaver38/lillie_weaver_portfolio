@@ -7,10 +7,14 @@ With skills in time management, flexibility, communication, and conflict resolut
 
 My comprehensive skill set, commitment to encountering all people with empathy, and passion for accessible and de-stigmatized mental health assistance makes me a valuable asset in both the psychology and child care fields. In my spare time, I like to hike, play soccer, hang out with friends and family, and go to the beach.
 
+Find me on LinkedIn [here](http://www.linkedin.com/in/lillie-weaver-19874235a).
+
 ### Education 
 First Year at Loyola University MD
 
 ### Projects
+
+___
 
 #### EXCEL: GRADE CALCULATOR
 
@@ -33,6 +37,9 @@ I used my course syllabi to get accurate assignment weights and grading scales. 
 **Result:**
 I set out to build a personalized, flexible grade calculator for two of my classes, and I achieved that goal. The calculator includes live formulas that compute my current grade, predict my final outcome, and display my progress in both number and letter format. The pie chart helps me visually prioritize high-impact assignments. If I were to take this further, I’d add a third class or build a dashboard that compares overall GPA projections.
 ***
+
+___
+
 #### EXCEL: RESALE TICKET BUSINESS
 
 This Excel project models a resale ticket business, integrating inventory tracking, dynamic pricing via lookup tables, loan payment projections, and affordability logic to simulate real-world decision-making in a small business environment.
@@ -54,6 +61,9 @@ I used online tutorials, Excel’s help functions, and the course video content�
 **Result:**
 I set out to build a detailed business tool that could manage inventory and analyze pricing, profitability, and affordability—and I succeeded. I now have a fully functioning resale ticket business workbook that includes pricing automation via lookup tables, quantity tracking, total and grand total calculations, monthly loan payment projections across three durations, and affordability checks based on a user-defined budget. If I were to extend the project, I’d include visual dashboards using charts and pivot tables, or even build a simple user interface for non-Excel users.
 ***
+
+___
+
 #### EXCEL: BUDGET TRACKER
 
 This Excel project is a personal budget tracker that helps monitor income, expenses, and savings goals. It includes formulas and formatting to provide a simple, customized way to manage monthly finances effectively.
@@ -75,6 +85,9 @@ I referenced the Ramsey Solutions budget tracker example for layout inspiration 
 **Result:**
 I successfully created a functional, visually clear budget tracker that helps me manage my monthly finances. It tracks income, expenses, and savings, and includes space for setting financial goals. If I continued this project, I’d add charts to visualize spending by category over time, and maybe a debt tracker if needed.
 ***
+
+___
+
 #### PYTHON: PERSONALITY TEST
 
 This Python project is a personality quiz that assigns users a dog breed—Golden Retriever, Pug, German Shepherd, or Chihuahua — based on their answers to a 10-question quiz using conditional logic and scoring.
@@ -96,6 +109,9 @@ Before coding, I used a Google document to brainstorm 10 questions and matched e
 **Result:**
 The finished project is a working Python application that asks users 10 questions and uses their answers to determine which dog breed best matches their personality. It includes a scoring system, personality descriptions, and input error handling. If I were to extend it, I’d ask more questions and add more possible breeds to make it more accurate.
 ***
+
+___
+
 #### Intro to SPSS
 
 This SPSS project analyzed the relationship between cricket chirps and temperature. It included descriptive stats, correlation analysis, and prediction, offering valuable hands-on experience for my psychology and statistics research interests.
