@@ -1,5 +1,5 @@
-![Background Image](potfolio_images\portfolio_background.png)
-# Lillie Weaver
+![Background Image](potfolio_images/portfolio_background.png)
+![Headshot](/potfolio_images/portfolio_background.jpg) # Lillie Weaver
 Contact Info: laweaver1@loyola.edu
 
 ___
