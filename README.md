@@ -20,6 +20,7 @@ ___
 ## **Education and Academic Awards** 
 First Year at Loyola University MD
 - Dean's List (2024, 2025)
+
 Georgetown Visitation Preparatory School Alum
 - Cum Laude Scholar
 - Excellence in Club Leadership (Environmental CLub)
