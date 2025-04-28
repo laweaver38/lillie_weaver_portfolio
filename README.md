@@ -9,14 +9,20 @@ Hi! I am a psychology and statistics scholar with 3 years of proven expertise in
 
 With skills in time management, flexibility, communication, and conflict resolution, I am able to design and implement developmentally appropriate, evidence-based strategies for supporting children’s growth, and achieve measurable improvements in emotional regulation and social skills. I am also adept at using Excel, SPSS, and Python to collect, analyze, and interpret behavioral data in both academic and applied settings. 
 
-My comprehensive skill set, commitment to encountering all people with empathy, and passion for accessible and de-stigmatized mental health assistance makes me a valuable asset in both the psychology and child care fields. In my spare time, I like to hike, play soccer, hang out with friends and family, and go to the beach.
+My comprehensive skill set, commitment to better understanding and helping others, and passion for accessible and de-stigmatized mental health assistance makes me a valuable asset in both the psychology and child care fields. 
 
-Find me on LinkedIn [here](http://www.linkedin.com/in/lillie-weaver-19874235a).
+In my spare time, I like to hike, play soccer, hang out with friends and family, and go to the beach.
+
+Find me on LinkedIn [here](http://www.linkedin.com/in/lillie-weaver-19874235a)!
 
 ___
 
-## **Education** 
+## **Education and Academic Awards** 
 First Year at Loyola University MD
+- Dean's List (2024, 2025)
+Georgetown Visitation Preparatory School Alum
+- Cum Laude Scholar
+- Excellence in Club Leadership (Environmental CLub)
 
 ___
 
