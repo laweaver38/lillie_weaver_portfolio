@@ -11,7 +11,7 @@ With skills in time management, flexibility, communication, and conflict resolut
 
 My comprehensive skill set, commitment to better understanding and helping others, and passion for accessible and de-stigmatized mental health assistance makes me a valuable asset in both the psychology and child care fields. 
 
-In my spare time, I like to hike, play soccer, hang out with friends and family, and go to the beach.
+In my spare time, I like to hike, play soccer, hang out with friends and family, and go to the beach!
 
 Find me on LinkedIn [here](http://www.linkedin.com/in/lillie-weaver-19874235a)!
 
@@ -23,7 +23,7 @@ First Year at Loyola University MD
 
 Georgetown Visitation Preparatory School Alum
 - Cum Laude Scholar
-- Excellence in Club Leadership (Environmental CLub)
+- Excellence in Club Leadership (Environmental Club; 2023, 2024)
 
 ___
 
